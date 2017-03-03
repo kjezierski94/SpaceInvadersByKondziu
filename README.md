@@ -7,4 +7,9 @@ Space Invaders jest grą typu shoot’em up czyli strzelanka (plansza widoczna j
 ##Harmonogram pracy
 - Tydzień 1. Tworzenie dokumentacji z celem i opisem projektu oraz konfiguracja środowiska PyCharm z platformą GitHub.
 - Tydzień 2. Rozpoczęcie pisania kodu źródłowego (tworzenie okna oraz ekran powitalny)
-- Tydzień 3. wewewewe
+- Tydzień 3. Tworzenie statku kosmicznego, kosmitów oraz tło gry
+- Tydzień 4. Implementacja sterowania graczem oraz przeciwnikami. Strzelanie gracza, przeciwników, tworzenie kolizji i zliczania punktów
+- Tydzień 5. Komunikat o wygranej lub przegranej, następną rundą.
+- Tydzień 6. Doskonalenie interfejsu gry.
+- Tydzień 7. Optymalizacja kodu źródłowego
+

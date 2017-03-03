@@ -13,3 +13,5 @@ Space Invaders jest grą typu shoot’em up czyli strzelanka (plansza widoczna j
 - Tydzień 6. Doskonalenie interfejsu gry.
 - Tydzień 7. Optymalizacja kodu źródłowego
 
+##Źródło
+http://pythonhaspower.com/posts/2015/02/pygame-biblioteka-do-tworzenia-prostych-gier-w-pythonie-cz-1/

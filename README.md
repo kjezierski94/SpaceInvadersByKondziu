@@ -1,1 +1,5 @@
 # SpaceInvadersByKondziu
+
+Celem projektu jest zaliczenie przedmoiotu "Programowianie gier". Gra będzie napisana w języku Python 2.7 w środowisku PyCharm.
+
+Space Invaders jest grą typu shoot’em up czyli strzelanka (plansza widoczna jest przez cały czas na ekranie). Polega ona na niszczeniu fal kosmitów przy użyciu statku kosmicznego i zbierania jak najwyższej ilości punktów. Wykorzystuje grafikę 2D. Gracz steruje statkiem kosmicznym, przemieszczając go na dole ekranu w lewo i prawo i strzela do kosmitów. Celem jest zniszczenie pięciu rzędów kosmitów, po dziesięć w każdym, które poruszają się poziomo w lewo i prawo i opadają na dół ekranu. Kosmici starają się zniszczyć statek strzelając w niego. Bonusem  gry jest tzw. „boss”  który czasami przemieszcza się na górze ekranu. Za jego zniszczenie gracz otrzymuje dodatkowe punkty. Z każdym poziomem poziom trudności wzrasta, a statek strzela podwójnie do kosmitów. Statek jest chroniony przez bariery ochronne.

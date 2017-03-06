@@ -1,5 +1,4 @@
+# !/usr/bin/env python
+from pygame import *
 import sys
-import os
-import re
-
-print("Witaj w grze SpaceInvadersByKondziu")
+from random import shuffle, randrange, choice
